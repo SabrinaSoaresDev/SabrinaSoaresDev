@@ -1,6 +1,6 @@
 ### Olá eu sou a Sabrina Soares 
 
-- 🌱 Estudando React-Native + Laravel
+- 🌱 Estudando React-Native + React
 
 <div align="center">
   <a href="https://github.com/SabrinaSoaresDev">
