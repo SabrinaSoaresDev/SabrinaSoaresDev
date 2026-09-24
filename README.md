@@ -1,6 +1,5 @@
 ### Olá eu sou a Sabrina Soares 
 
-- 🌱 Estudando  React
 
 <div align="center">
   <a href="https://github.com/SabrinaSoaresDev">
